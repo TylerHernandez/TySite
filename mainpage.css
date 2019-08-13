@@ -1,0 +1,59 @@
+nav {
+  background-color: lightblue;
+}
+
+.picofme {
+  background-position:left;
+  background:black;
+  padding:2px;
+  border:10px;
+  margin-left: 20px;
+
+}
+#whiteboxdiv{
+  border: 1px;
+  margin-left: 510px;
+  font-style: italic;
+  font-family: Script Std, cursive;
+  text-underline-position: left;
+  margin-top: 50px;
+  font-size: 90px;
+  text-align: center;
+  color: white;
+  opacity: .6;
+  background-color: GREY;
+  padding-right: 10px;
+}
+#whiteboxdiv2{
+  border: 1px;
+  margin-left: 1310px;
+  font-style: italic;
+  font-family: Script Std, cursive;
+  text-underline-position: left;
+  margin-top: 50px;
+  font-size: 70px;
+  text-align: center;
+  color: white;
+  opacity: .6;
+  background-color: GREY;
+  padding-right: 10px;
+}
+#linkedin{
+  height:35px;
+  width: 35px;
+}
+.logos{
+  height: 25px;
+  width: 25px;
+}
+
+
+body{
+background-color: black;
+background-image: url("latteart.jpg");
+height: 830px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}

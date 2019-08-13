@@ -1,0 +1,28 @@
+.picofme{
+  /* display: flex;
+  border: 100px;
+  border-color: black;
+  border-width: 50px; */
+  background:black;
+  padding:12px;
+  border:1px solid #999;
+}
+.myName{
+font-size:40px;
+text-align: center;
+}
+#myname {
+  display: flex;
+  justify-content: center;
+  background-color:lightblue;
+  color:blue;
+}
+body{
+  background-color: black;
+  background-image: url("latteart.jpg");
+  height: 830px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
