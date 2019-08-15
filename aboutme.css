@@ -2,13 +2,17 @@ nav {
   background-color: lightblue;
 }
 #firsttext{
-  font-size:40px;
+  font-size:40px; 
   color: white;
-  text-align: right;
+  font-family: Georgia;
 }
 .logos{
   height: 25px;
   width: 25px;
+}
+#myVideo{
+  opacity: .9;
+  filter: brightness(70%);
 }
 
 .content {
@@ -18,4 +22,8 @@ nav {
   color: WHITE;
   width: 100%;
   padding: 10px;
+  text-align: CENTER;
+}
+body{
+  background-color:black;
 }
